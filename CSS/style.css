@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    background-color: azure;
+    height: 400px;
+    width: 600px;
+    border: 2px solid gold;
+    margin-left: 100px;
+    margin-top: 100px ;
+}
+
+.child1{
+    background-color: brown;
+    border: 1px dotted red;
+    height: 100px;
+    width: 100px;
+
+}
+.container1{
+    background-color: black;
+}
+#con{
+    background-color: blue;
+}
