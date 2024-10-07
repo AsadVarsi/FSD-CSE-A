@@ -1,0 +1,45 @@
+.container{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+}
+.searchnav{
+    background-color: #131921;
+    margin: 20px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+.nav{
+    padding-left: 10px;
+    height: 30px;
+    align-items: center;
+    background-color: black;
+    margin: 20px;
+    display: flex;
+    color: white;
+    justify-content: start;
+    gap: 40px;
+}
+.searchnav{
+    border: 2px solid red;
+
+}
+.row1 img{
+    height: 60px;
+    width: 100px;
+    padding: 10px;
+
+}
+.row6 img{
+    height: 60px;
+    width: 100px;
+    padding: 10px;
+
+}
+input{
+    width: 600px;
+    height: 30px;
+}
