@@ -1,0 +1,8 @@
+.iCard{
+    border:5px solid rgb(187, 124, 124);
+    height: 300px;
+    width: 200px;
+    background-color: antiquewhite;
+    color: black;
+    margin-left: 100px;
+}
